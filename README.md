@@ -1,2 +1,2 @@
 # Stock-Forecaster
-A web based stock forecaster
+A web based stock forecaster. 
